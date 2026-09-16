@@ -1,0 +1,5 @@
+label            Total Train Test Train% Test%
+glioma_tumor     926   741   185  80.0   19.98
+meningioma_tumor 937   749   188  79.94  20.06
+no_tumor         500   400   100  80.0   20.0
+pituitary_tumor  901   721   180  80.02  19.98
